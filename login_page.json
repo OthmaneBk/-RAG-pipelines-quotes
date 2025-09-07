@@ -1,0 +1,9 @@
+﻿{
+    "https://quotes.toscrape.com/login": [
+        {
+            "username": "Username",
+            "password": "Password",
+            "login_button": "Login"
+        }
+    ]
+}

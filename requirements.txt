@@ -1,0 +1,17 @@
+selenium                       # Pour le contrôle du navigateur
+python-dotenv                 # Pour charger les variables d'environnement (.env)
+undetected-chromedriver       # Pour éviter le blocage des bots lors du scraping
+pandas                        # Manipulation de données tabulaires
+beautifulsoup4                # Parsing HTML pour le web scraping
+
+
+# Serveur API
+fastapi                       # Création d'API rapide et efficace
+
+# LangChain et intégrations
+langchain>=0.1.0                     # Core LangChain
+langchain-community>=0.0.10   # Intégrations tierces (comme Pinecone)       
+langchain-pinecone>=0.1.0
+langchain-huggingface
+transformers
+python-dotenv   
